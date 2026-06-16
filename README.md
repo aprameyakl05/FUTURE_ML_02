@@ -83,19 +83,14 @@ Final Accuracy: 84.86%
 
 ---
 
-## ▶️ Run Locally
-
-```bash
-pip install -r requirements.txt
-
-streamlit run app.py
-```
-
----
-
 ## 👨‍💻 Author
 
 Aprameya Haritasa Sharma K L
 
 LinkedIn:
 linkedin.com/in/aprameyakl05
+
+## Application Screenshots
+
+## Dashboard
+![Dashboard](screenshots/dashboard.png)
