@@ -9,4 +9,3 @@ models/*.pkl
 .streamlit/
 
 .DS_Store
-screenshots/
